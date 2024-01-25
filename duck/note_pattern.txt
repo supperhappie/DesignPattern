@@ -1,0 +1,7 @@
+사용된 디자인 패턴
+- adapter : DuckAdapter
+- singleton : FlyWithNoWings, FlyWithWings, QuackBasic, QuackMute
+
+
+duck 과 turkey 에 대해서 factory 로 구현하는 것도 생각할 수 있을 것 같다. 
+여기에 adapter 로 toy 로 바꿔주는 것도 할 수 있을 것 같다. 
