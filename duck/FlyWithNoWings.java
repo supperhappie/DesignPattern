@@ -1,4 +1,4 @@
-package mysample.duck;
+package duck;
 
 public class FlyWithNoWings implements Fly{
     private static FlyWithNoWings instance = new FlyWithNoWings();

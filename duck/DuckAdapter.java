@@ -1,4 +1,4 @@
-package mysample.duck;
+package duck;
 
 public class DuckAdapter extends SuperAnimal{    
     Duck duck;

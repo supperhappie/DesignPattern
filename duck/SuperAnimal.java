@@ -1,4 +1,4 @@
-package mysample.duck;
+package duck;
 
 abstract class SuperAnimal{    
     int str;

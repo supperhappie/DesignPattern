@@ -1,4 +1,4 @@
-package mysample.observer;
+package observer;
 
 /**
  * Observer

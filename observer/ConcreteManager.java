@@ -1,4 +1,4 @@
-package mysample.observer;
+package observer;
 
 import java.util.HashMap;
 import java.util.Map;

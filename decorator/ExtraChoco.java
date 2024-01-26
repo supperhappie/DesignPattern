@@ -1,4 +1,4 @@
-package mysample.decorator;
+package decorator;
 
 public class ExtraChoco extends BeverageExtra{
     public ExtraChoco(Beverage beverage){
@@ -6,5 +6,4 @@ public class ExtraChoco extends BeverageExtra{
         name = "Choco";
         this.beverage = beverage;
     }
-    
 }

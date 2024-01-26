@@ -1,4 +1,4 @@
-package mysample.animalFactoryMethod;
+package animalFactoryMethod;
 
 interface Speak extends Action{
     

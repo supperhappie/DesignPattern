@@ -1,4 +1,4 @@
-package mysample.decorator;
+package decorator;
 
 public class BaseEspresso extends BeverageBase{
     public BaseEspresso(){

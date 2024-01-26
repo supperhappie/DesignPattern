@@ -1,4 +1,4 @@
-package mysample.animalFactoryMethod;
+package animalFactoryMethod;
 
 interface Attack extends Action{    
 }

@@ -1,4 +1,4 @@
-package mysample.duck;
+package duck;
 
 public class DuckGenerator implements Duck{
     Quack quack;

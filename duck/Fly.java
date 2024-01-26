@@ -1,4 +1,4 @@
-package mysample.duck;
+package duck;
 
 public interface Fly {
     public void fly();   

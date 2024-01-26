@@ -1,4 +1,4 @@
-package mysample.animalFactoryMethod;
+package animalFactoryMethod;
 
 interface Animal {
     public void species();

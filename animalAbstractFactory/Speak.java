@@ -1,4 +1,4 @@
-package mysample.animalAbstractFactory;
+package animalAbstractFactory;
 
 
 abstract class Speak extends Action{

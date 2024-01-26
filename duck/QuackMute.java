@@ -1,4 +1,4 @@
-package mysample.duck;
+package duck;
 
 public class QuackMute implements Quack{
     private static QuackMute instance = new QuackMute();

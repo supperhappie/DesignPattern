@@ -1,4 +1,4 @@
-package mysample.duck;
+package duck;
 
 public class QuackBasic implements Quack {
     private static QuackBasic instance = new QuackBasic();

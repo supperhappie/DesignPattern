@@ -1,4 +1,4 @@
-package mysample.animalFactoryMethod;
+package animalFactoryMethod;
 
 public class FactoryDuck implements AnimalFactory{
     @Override

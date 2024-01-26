@@ -1,4 +1,4 @@
-package mysample.duck;
+package duck;
 
 public interface Quack {
     public void quack();

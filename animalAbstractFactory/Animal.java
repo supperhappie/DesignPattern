@@ -1,4 +1,4 @@
-package mysample.animalAbstractFactory;
+package animalAbstractFactory;
 
 import java.util.Vector;
 

@@ -1,4 +1,4 @@
-package mysample.animalAbstractFactory;
+package animalAbstractFactory;
 
 
 public class AttackDuck extends Attack{

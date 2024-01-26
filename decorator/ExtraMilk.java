@@ -1,4 +1,4 @@
-package mysample.decorator;
+package decorator;
 
 public class ExtraMilk extends BeverageExtra{
     public ExtraMilk(Beverage beverage){

@@ -1,4 +1,4 @@
-package mysample.duck;
+package duck;
 
 public class Main {
     private static void printDivideLine(String tag){

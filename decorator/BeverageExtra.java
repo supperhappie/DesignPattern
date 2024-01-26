@@ -1,4 +1,4 @@
-package mysample.decorator;
+package decorator;
 
 public abstract class BeverageExtra implements Beverage{
     Beverage beverage;

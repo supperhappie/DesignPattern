@@ -1,4 +1,4 @@
-package mysample.decorator;
+package decorator;
 
 public abstract class BeverageBase implements Beverage{
     int value;

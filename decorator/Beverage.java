@@ -1,4 +1,4 @@
-package mysample.decorator;
+package decorator;
 
 interface Beverage {
     int cost();

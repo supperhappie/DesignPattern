@@ -1,4 +1,4 @@
-package mysample.observer;
+package observer;
 public class Main {
     public static void main(String[] args){
         Boss boss = new Boss();
